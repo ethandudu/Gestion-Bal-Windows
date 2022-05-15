@@ -14,7 +14,7 @@ Application Windows pour la gestion du bal du Lycée Pasquet
 
 ## Installation
 ### Pré-requis
-- ![Gestion-Bal-Server](https://github.com/ethandudu/Gestion-Bal-Server)
+- [Gestion-Bal-Server](https://github.com/ethandudu/Gestion-Bal-Server)
 - [Visual Studio 2022](https://visualstudio.microsoft.com/fr/)
 
 ### Procédure
@@ -23,4 +23,4 @@ Application Windows pour la gestion du bal du Lycée Pasquet
 
 ## Informations utiles
 - Identifiants de connexion par défaut : `admin` / `admin`
-- ![Licence](https://github.com/ethandudu/Gestion-Bal-Windows/blob/main/LICENCE.md)
+- [Licence](https://github.com/ethandudu/Gestion-Bal-Windows/blob/main/LICENCE.md)
