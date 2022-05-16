@@ -6,6 +6,8 @@
 
 Application Windows pour la gestion du bal du Lycée Pasquet
 
+⚠ Développement en cours
+
 ## Sommaire
 - Installation
   - Pré-requis
@@ -24,3 +26,4 @@ Application Windows pour la gestion du bal du Lycée Pasquet
 ## Informations utiles
 - Identifiants de connexion par défaut : `admin` / `admin`
 - [Licence](https://github.com/ethandudu/Gestion-Bal-Windows/blob/main/LICENCE.md)
+- Icones par [Icons8](https://icons8.com/)
